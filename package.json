@@ -1,0 +1,14 @@
+{
+  "name": "jsdesignpatter",
+  "version": "1.0.0",
+  "description": "Practice different design patterns of JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design"
+  ],
+  "author": "John Hong",
+  "license": "ISC"
+}
